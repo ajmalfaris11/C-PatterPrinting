@@ -18,3 +18,23 @@ int main() {
 
     return 0;  // Return 0 to indicate successful completion of the program
 }
+
+/*
+
+Right Angled Triangle Pattern 
+-----------------------------
+
+
+            1 
+
+            1  2 
+
+            1  2  3 
+
+            1  2  3  4 
+            
+            1  2  3  4  5 
+
+
+
+*/
