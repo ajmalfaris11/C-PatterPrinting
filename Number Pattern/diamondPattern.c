@@ -56,6 +56,9 @@ int main() {
 
 /*
 
+          diamond number pattern
+          ----------------------
+
 
                     1
                    121
